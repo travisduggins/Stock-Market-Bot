@@ -5,5 +5,9 @@ class myClass {
     }
     static void hello() {
         System.out.println("Love");
+        hello2();
+    }
+    static void hello2() {
+        System.out.println("Programming");
     }
 }
