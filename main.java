@@ -9,5 +9,6 @@ class myClass {
     }
     static void hello2() {
         System.out.println("Programming");
+        //Some Code Some Code!!
     }
 }
